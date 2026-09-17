@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# python venv (used only to generate the pitch deck)
+.venv/
+
+# editor / OS
+.DS_Store
+*.local
