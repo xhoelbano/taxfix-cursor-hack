@@ -17,11 +17,12 @@ The Ring
 
 ## Prototype / repository link
 
-*TODO: add link*
+[https://github.com/xhoelbano/taxfix-cursor-hack](https://github.com/xhoelbano/taxfix-cursor-hack)
 
 ## Pitch video / screen recording (max 2 minutes)
 
-*TODO: add link*
+https://drive.google.com/file/d/1HtCCYV4DwtVV6EkwRztt6YKsTRwQy9b9/view?usp=sharing
+
 
 ## How we used Cursor
 
